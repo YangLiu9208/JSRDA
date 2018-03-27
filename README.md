@@ -41,7 +41,28 @@ From Table 3, we can see that our method with the whole length of video achieves
 From Table 4, we can see that the performance of our method with 1/4 length of the video achieves slightly worse performance that other three video excerpts. Nevertheless, the overall performance of these four kinds of video excerpts is satisfactory. More intuitive comparison can be seen in Figure 2 below. We can see that the performance increases when the length of video excerpts increases. This validates that cutting each video into small excerpts will degrade the performance because the excerpts of the video may break the whole process of an action. To be noticed, our method with 3/4 length of the video achieves slightly better performance than the whole video length. This may due to the fact that the whole video excerpt may contain more redundant information because videos on the MuHAVi dataset not only contain the action of interest but also the background information before and after the action process. Although our method with the 3/4 length of the video achieves the best performance, the overall performance of our method with the whole length of the video is comparable to it. In addition, the average accuracy gap among different kind of video excerpts is small, this validates that our method can achieve reasonable performance for multi-view problem in video excerpts of both small and large length. 
 
 
-## Datasets
-InfAR dataset can be downloaded [here](https://sites.google.com/site/gaochenqiang/publication/infrared-action-dataset).
+### Datasets
+IXMAS dataset can be downloaded [here](http://4drepository.inrialpes.fr/public/viewgroup/6#sequence37).
 
-NTU RGB+D dataset can be downloaded [here](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp).
+Northwestern UCLA Multiview Action 3D (NUMA) dataset can be downloaded [here](http://users.eecs.northwestern.edu/~jwa368/my_data.html).
+
+WVU action datase can be downloaded [here](http://csee.wvu.edu/~vkkulathumani/wvu-action.html).
+
+MuHAVi dataset can be downloaded [here](http://dipersec.king.ac.uk/MuHAVi-MAS/).
+
+### Codes
+Soon will be available.
+
+If you find the work helpful, please kindly consider to cite our paper by:
+```
+@article{JSRDA,
+  title={Hierarchically Learned View-Invariant Representations for Cross-View Action Recognition},
+  author={Yang Liu and Zhaoyang Lu and Jing Li and Tao Yang},
+  journal={IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY },
+  volume={},
+  pages = {},
+  year={},
+  doi = {}
+}
+```
+### Reference
