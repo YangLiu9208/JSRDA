@@ -58,7 +58,7 @@ If you find the work helpful, please kindly consider to cite our paper by:
 @article{JSRDA,
   title={Hierarchically Learned View-Invariant Representations for Cross-View Action Recognition},
   author={Yang Liu and Zhaoyang Lu and Jing Li and Tao Yang},
-  journal={IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY },
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
   volume={},
   pages = {},
   year={},
