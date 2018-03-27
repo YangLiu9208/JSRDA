@@ -66,3 +66,4 @@ If you find the work helpful, please kindly consider to cite our paper by:
 }
 ```
 ### Reference
+Yang, Liu; Zhaoyang, Lu; Jing, Li; Tao, Yang. Hierarchically Learned View-Invariant Representations for Cross-View Action Recognition. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY, major revision.
