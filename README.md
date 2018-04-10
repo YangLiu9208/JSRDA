@@ -1,4 +1,4 @@
-# JSRDA
+# Hierarchically Learned View-Invariant Representations for Cross-View Action Recognition
 
 <a href="https://orcid.org/0000-0002-9423-9252" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-9423-9252</a>
 
@@ -58,20 +58,11 @@ Soon will be available.
 
 If you find the work helpful, please kindly consider to cite our paper by:
 ```
-@article{JSRDA,
-  title={Hierarchically Learned View-Invariant Representations for Cross-View Action Recognition},
-  author={Yang Liu and Zhaoyang Lu and Jing Li and Tao Yang},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  volume={},
-  pages = {},
-  year={},
-  doi = {}
-}
+
 ```
 ### Reference
 Yang, Liu; Zhaoyang, Lu; Jing, Li; Tao, Yang. Hierarchically Learned View-Invariant Representations for Cross-View Action Recognition. IEEE Transactions on Circuits and Systems for Video Technology, major revision.
 
 
 
-<a href='https://clustrmaps.com/site/1a4an'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=m&d=4dX8Xg93pniEbQwfuBZerVOVFnmAytFJ6sMkruVlBi0'/></a>
 
