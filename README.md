@@ -45,22 +45,23 @@ From Table 4, we can see that the performance of our method with 1/4 length of t
 
 
 ### Datasets
-IXMAS dataset can be downloaded [here](http://4drepository.inrialpes.fr/public/viewgroup/6#sequence37).
+
+### IXMAS dataset can be downloaded [here](http://4drepository.inrialpes.fr/public/viewgroup/6#sequence37).
 
 ![Image](Fig6.png)
 Figure 3: Exemplar frames from the IXMAS dataset. Each row shows one action captured by five cameras.
 
-Northwestern UCLA Multiview Action 3D (NUMA) dataset can be downloaded [here](http://users.eecs.northwestern.edu/~jwa368/my_data.html).
+### Northwestern UCLA Multiview Action 3D (NUMA) dataset can be downloaded [here](http://users.eecs.northwestern.edu/~jwa368/my_data.html).
 
 ![Image](Fig7.png)
 Figure 4: Exemplar frames from the Northwestern UCLA dataset. Action classes: Sit down and Throw.
 
-WVU action datase can be downloaded [here](http://csee.wvu.edu/~vkkulathumani/wvu-action.html).
+### WVU action datase can be downloaded [here](http://csee.wvu.edu/~vkkulathumani/wvu-action.html).
 
 ![Image](Fig8.png)
 Figure 5: Exemplar frames from the WVU dataset. Each row shows one action viewed across eight camera views.
 
-MuHAVi dataset can be downloaded [here](http://dipersec.king.ac.uk/MuHAVi-MAS/).
+### MuHAVi dataset can be downloaded [here](http://dipersec.king.ac.uk/MuHAVi-MAS/).
 
 ![Image](Fig9.png)
 Figure 6: Exemplar frames from the MuHAVi dataset. Action classes: DrawGraffiti and WaveArms.
