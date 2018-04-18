@@ -82,4 +82,4 @@ Yang, Liu; Zhaoyang, Lu; Jing, Li; Tao, Yang. Hierarchically Learned View-Invari
 
 
 
-<a href='https://clustrmaps.com/site/1a4an'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=700&t=tt&d=4dX8Xg93pniEbQwfuBZerVOVFnmAytFJ6sMkruVlBi0'/></a>
+<a href='https://clustrmaps.com/site/1a4an'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=4dX8Xg93pniEbQwfuBZerVOVFnmAytFJ6sMkruVlBi0'/></a>
