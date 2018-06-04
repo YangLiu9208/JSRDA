@@ -58,7 +58,7 @@ We use c=2 in all the experiments in our paper to calculate the Gaussian distanc
 
 Table 4: Performance comparison of cross-view action recognition task Cam1|Cam3 on the MuHAVi dataset for different values of parameter c.
 
-![Image](Parameter c.png)
+![Image](Parameter.png)
 
 From Table 4, we can see that the overall performance of our algorithm is stable when. But when the value of c is too small or too big, the overall performance of our algorithm drops a little. Therefore, we choose c=2 according to this experimental result and the paper titled (*F. Zhu and L. Shao, “Weakly-supervised cross-domain dictionary learning for visual recognition,” International Journal of Computer Vision, vol. 109, no. 1-2, pp. 42–59, 2014*)*.* Due to the limited size of the paper, this experimental result will not be provided in the revised manuscript. 
 
