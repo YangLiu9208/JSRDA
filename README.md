@@ -8,7 +8,14 @@ Recognizing human actions from varied views is challenging due to huge appearanc
 ![Image](Fig1.jpg)
 Figure 1: Framework of our proposed JSRDA. The framework is hierarchical as the view-invariant representation is learned in a coarse-to-fine fashion. 
 
+## Algorithm
+
+![Image](Algorithm.png)
+
+
+
 ## Experimental results 
+
 Detailed expermental results and related disscussions can be found in the paper.
 Here, we provide some extra experiments and results which are not included in the original paper.
 
@@ -40,6 +47,16 @@ From Table 3, we can see that our method with the whole length of video achieves
 
 From Table 4, we can see that the performance of our method with 1/4 length of the video achieves slightly worse performance that other three video excerpts. Nevertheless, the overall performance of these four kinds of video excerpts is satisfactory. More intuitive comparison can be seen in Figure 2 below. We can see that the performance increases when the length of video excerpts increases. This validates that cutting each video into small excerpts will degrade the performance because the excerpts of the video may break the whole process of an action. To be noticed, our method with 3/4 length of the video achieves slightly better performance than the whole video length. This may due to the fact that the whole video excerpt may contain more redundant information because videos on the MuHAVi dataset not only contain the action of interest but also the background information before and after the action process. Although our method with the 3/4 length of the video achieves the best performance, the overall performance of our method with the whole length of the video is comparable to it. In addition, the average accuracy gap among different kind of video excerpts is small, this validates that our method can achieve reasonable performance for multi-view problem in video excerpts of both small and large length. 
 
+### Experiment 3
+
+We use c=2 in all the experiments in our paper to calculate the Gaussian distances in Shared features learning  part. To evaluate whether the value of parameter c influence the overall performance of our algorithm, we choose different values of parameter c to evaluate our algorithm. We conduct experiment on MuHAVi dataset for cross-view task Cam1|Cam3. The results of other cross-view action recognition tasks or multi-view tasks are not given here as it shows similar results to the Cam1|Cam3. The experimental result can be seen in Table 4.
+
+Table 4: Performance comparison of cross-view action recognition task Cam1|Cam3 on the MuHAVi dataset for different values of parameter c.
+
+![Image](Parameter c.png)
+
+From Table 4, we can see that the overall performance of our algorithm is stable when. But when the value of c is too small or too big, the overall performance of our algorithm drops a little. Therefore, we choose c=2 according to this experimental result and the paper titled (*F. Zhu and L. Shao, “Weakly-supervised cross-domain dictionary learning for visual recognition,” International Journal of Computer Vision, vol. 109, no. 1-2, pp. 42–59, 2014*)*.* Due to the limited size of the paper, this experimental result will not be provided in the revised manuscript. 
+
 
 ### Datasets
 IXMAS dataset can be downloaded [here](http://4drepository.inrialpes.fr/public/viewgroup/6#sequence37).
@@ -66,7 +83,7 @@ If you find the work helpful, please kindly consider to cite our paper by:
 }
 ```
 ### Reference
-Yang, Liu; Zhaoyang, Lu; Jing, Li; Tao, Yang. Hierarchically Learned View-Invariant Representations for Cross-View Action Recognition. IEEE Transactions on Circuits and Systems for Video Technology, major revision.
+Yang, Liu; Zhaoyang, Lu; Jing, Li; Tao, Yang. Hierarchically Learned View-Invariant Representations for Cross-View Action Recognition. IEEE Transactions on Circuits and Systems for Video Technology, minor revision.
 
 
 
