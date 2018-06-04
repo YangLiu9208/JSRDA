@@ -1,4 +1,9 @@
-# JSRDA
+# Hierarchically Learned View-Invariant Representations for Cross-View Action Recognition
+
+<a href="https://orcid.org/0000-0002-9423-9252" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-9423-9252</a>
+
+Homepage: [https://sites.google.com/site/yangliuxdu/home]([https://sites.google.com/site/yangliuxdu/home)
+
 Methods and results for paper "Hierarchically Learned View-Invariant Representations for Cross-View Action Recognition"
 
 ## Abstract
@@ -59,33 +64,46 @@ From Table 4, we can see that the overall performance of our algorithm is stable
 
 
 ### Datasets
-IXMAS dataset can be downloaded [here](http://4drepository.inrialpes.fr/public/viewgroup/6#sequence37).
 
-Northwestern UCLA Multiview Action 3D (NUMA) dataset can be downloaded [here](http://users.eecs.northwestern.edu/~jwa368/my_data.html).
+### IXMAS dataset can be downloaded [here](http://4drepository.inrialpes.fr/public/viewgroup/6#sequence37).
 
-WVU action datase can be downloaded [here](http://csee.wvu.edu/~vkkulathumani/wvu-action.html).
+![Image](Fig6.png)
 
-MuHAVi dataset can be downloaded [here](http://dipersec.king.ac.uk/MuHAVi-MAS/).
+Figure 3: Exemplar frames from the IXMAS dataset. Each row shows one action captured by five cameras.
+
+### Northwestern UCLA Multiview Action 3D (NUMA) dataset can be downloaded [here](http://users.eecs.northwestern.edu/~jwa368/my_data.html).
+
+![Image](Fig7.png)
+
+Figure 4: Exemplar frames from the Northwestern UCLA dataset. Action classes: Sit down and Throw.
+
+### WVU action datase can be downloaded [here](http://csee.wvu.edu/~vkkulathumani/wvu-action.html).
+
+![Image](Fig8.png)
+
+Figure 5: Exemplar frames from the WVU dataset. Each row shows one action viewed across eight camera views.
+
+### MuHAVi dataset can be downloaded [here](http://dipersec.king.ac.uk/MuHAVi-MAS/).
+
+![Image](Fig9.png)
+
+Figure 6: Exemplar frames from the MuHAVi dataset. Action classes: DrawGraffiti and WaveArms.
 
 ### Codes
 Soon will be available.
 
 If you find the work helpful, please kindly consider to cite our paper by:
 ```
-@article{JSRDA,
-  title={Hierarchically Learned View-Invariant Representations for Cross-View Action Recognition},
-  author={Yang Liu and Zhaoyang Lu and Jing Li and Tao Yang},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  volume={},
-  pages = {},
-  year={},
-  doi = {}
-}
+
 ```
 ### Reference
 Yang, Liu; Zhaoyang, Lu; Jing, Li; Tao, Yang. Hierarchically Learned View-Invariant Representations for Cross-View Action Recognition. IEEE Transactions on Circuits and Systems for Video Technology, minor revision.
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> bf4ab4d8a3e97bc7801312a11d8a9131ba54772c
 
-<a href='https://clustrmaps.com/site/1a4an'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=m&d=4dX8Xg93pniEbQwfuBZerVOVFnmAytFJ6sMkruVlBi0'/></a>
+If you have any question about this code, feel free to reach me(aryanr@163.com)
 
+<a href='https://clustrmaps.com/site/1a4an'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=tt&d=4dX8Xg93pniEbQwfuBZerVOVFnmAytFJ6sMkruVlBi0'/></a>
