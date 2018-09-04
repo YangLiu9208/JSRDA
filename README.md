@@ -90,8 +90,8 @@ Figure 5: Exemplar frames from the WVU dataset. Each row shows one action viewed
 Figure 6: Exemplar frames from the MuHAVi dataset. Action classes: DrawGraffiti and WaveArms.
 
 ### Codes
-The demo codes for IXMAS dataset can be downloaded here. There are three .rar files totally: JSARDA_codes.part1.rar, JSARDA_codes.part2.rar and JSARDA_codes.part3.rar.
-You must download all of these three files. If you use the codes or find the work helpful, please kindly consider to cite our paper by:
+The demo codes for IXMAS dataset can be downloaded here. There are twoe .rar files totally: JSARDA_codes.part1.rar and JSARDA_codes.part2.rar.
+You must download all of these two files. If you use the codes or find the work helpful, please kindly consider to cite our paper by:
 ```
 @ARTICLE{8453034, 
 author={Y. Liu and Z. Lu and J. Li and T. Yang}, 
