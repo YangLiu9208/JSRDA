@@ -90,7 +90,7 @@ Figure 5: Exemplar frames from the WVU dataset. Each row shows one action viewed
 Figure 6: Exemplar frames from the MuHAVi dataset. Action classes: DrawGraffiti and WaveArms.
 
 ### Codes
-Soon will be available.
+The demo codes for IXMAS dataset can be downloaded here. There are three .rar files totally. You must download all of these three files. If you use the codes, please kindly consider to cite our paper.
 
 If you find the work helpful, please kindly consider to cite our paper by:
 ```
