@@ -90,7 +90,7 @@ Figure 5: Exemplar frames from the WVU dataset. Each row shows one action viewed
 Figure 6: Exemplar frames from the MuHAVi dataset. Action classes: DrawGraffiti and WaveArms.
 
 ### Codes
-The demo codes for IXMAS dataset can be downloaded here. There are twoe .rar files totally: JSARDA_codes.part1.rar and JSARDA_codes.part2.rar.
+The demo codes for IXMAS dataset can be downloaded here. There are two .rar files totally: JSARDA_codes.part1.rar and JSARDA_codes.part2.rar.
 You must download all of these two files. If you use the codes or find the work helpful, please kindly consider to cite our paper by:
 ```
 @ARTICLE{8453034, 
@@ -106,7 +106,7 @@ ISSN={1051-8215},
 month={Aug},}
 ```
 ### Reference
-Yang, Liu; Zhaoyang, Lu; Jing, Li; Tao, Yang. Hierarchically Learned View-Invariant Representations for Cross-View Action Recognition. IEEE Transactions on Circuits and Systems for Video Technology. doi: 10.1109/TCSVT.2018.2868123
+Yang, Liu; Zhaoyang, Lu; Jing, Li; Tao, Yang. Hierarchically Learned View-Invariant Representations for Cross-View Action Recognition. IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 8, pp. 2416-2430, 2019.  
 
 If you have any question about this code, feel free to reach me(aryanr@163.com)
 
