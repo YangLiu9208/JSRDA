@@ -56,7 +56,7 @@ From Table 4, we can see that the performance of our method with 1/4 length of t
 
 We use c=2 in all the experiments in our paper to calculate the Gaussian distances in Shared features learning  part. To evaluate whether the value of parameter c influence the overall performance of our algorithm, we choose different values of parameter c to evaluate our algorithm. We conduct experiment on MuHAVi dataset for cross-view task Cam1-Cam3. The results of other cross-view action recognition tasks or multi-view tasks are not given here as it shows similar results to the Cam1-Cam3. The experimental result can be seen in Table 4.
 
-Table 4: Performance comparison of cross-view action recognition task Cam1|Cam3 on the MuHAVi dataset for different values of parameter c.
+Table 4: Performance comparison of cross-view action recognition task Cam1-Cam3 on the MuHAVi dataset for different values of parameter c.
 
 ![Image](Parameter.png)
 
